@@ -1,0 +1,1 @@
+"Test plain text for first git push from lynx desktop"
